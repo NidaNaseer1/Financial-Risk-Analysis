@@ -1,5 +1,4 @@
 # Financial-Risk-Analysis
-3# Financial Risk Analysis Using Python
 
 ## Project Overview
 Financial Risk Analysis is a data analytics project that focuses on analyzing financial data to identify patterns, trends, and potential risk indicators. This project uses Python and its libraries to clean, explore, analyze, and visualize financial data to generate meaningful insights.
